@@ -1,59 +1,35 @@
-# BarberShop
+# Criando um APP Full Stack de Agendamento de Barbearia com Java e Angular
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
+Este projeto envolve o desenvolvimento de um aplicativo full stack para agendamentos em barbearias, utilizando Java no backend e Angular no frontend. O sistema permitirá o cadastro de clientes, agendamento de horários e gerenciamento de serviços.
 
-## Development server
+**Java | Angular** 
 
-To start a local development server, run:
+**Full-Stack | Básico**
 
-```bash
-ng serve
-```
+## Links Úteis
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+* [Angular Material](https://material.angular.io)
 
-## Code scaffolding
+* [Bootstrap widgets](https://ng-bootstrap.github.io/#/home)
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+* [PRIMENG](https://primeng.org)
 
-```bash
-ng generate component component-name
-```
+* [spring initializr](https://start.spring.io)
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+* [MapStruct](https://mapstruct.org)
 
-```bash
-ng generate --help
-```
+* [MockServer](https://www.mock-server.com/)
 
-## Building
+* [barber-shop-api](https://start.spring.io/#!type=gradle-project-kotlin&language=java&platformVersion=3.4.3&packaging=jar&jvmVersion=21&groupId=br.com.dio&artifactId=barber-shop-api&name=barber-shop-api&description=API%20barbearia&packageName=br.com.dio.barbershopapi&dependencies=flyway,data-jpa,devtools,postgresql,web,lombok,validation)
 
-To build the project run:
+##
 
-```bash
-ng build
-```
+##
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+![text](https://assets.dio.me/ZBn61yjmIoS_KQ-UT2E5dwVnvtQVkqG0s8Hzo5X9y4k/f:webp/h:221/q:80/L3RyYWNrcy9jb3Zlci85NGZkNmRkZi0zZDE2LTRlYTUtYmM1ZC05ZTA4ZGY0NDJlMzMucG5n)
 
-## Running unit tests
+Projeto desenvolvido durante o [**Decola Tech - Avanade**](https://www.dio.me/bootcamp/decola-tech-2025), fornecido pela [**DIO**](https://www.dio.me/)
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+##
 
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+- [By Páucinha](https://github.com/Paucinha)
