@@ -13,7 +13,7 @@ COPY package*.json ./
 RUN yarn global add @angular/cli@1 19.2.0
 RUN npm i -g @angular/cli@ 19.2.0  --save-dev
 
-#RUN yarn install
-#RUN npm install
+RUN yarn install
+RUN npm install
 
 COPY . .
